@@ -15,4 +15,11 @@ and use to npm install
 to install the dependencies required to start server 
 after installing dependencies you can start server by command
 
-```node server'''
+```node server```
+
+you have to make some configuration changes in server.js before you run it locally 
+
+1.you have to update the value of secret key which you got from stripe account.
+
+2.update the value of public key in your front-end code.
+
