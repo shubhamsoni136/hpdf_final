@@ -8,10 +8,7 @@ This demo features a sample charge card using Stripe API. This app is currently 
 
 This app is built on top of the folllowing API
 * https://stripe.com/docs/api
-* Server endpoint : https://app.backpedal70.hasura-app.io/charge 
-
-## Backend
-Find the back end code at [https://github.com/kmajeshkrishnan/Stripe-Demo](https://github.com/kmajeshkrishnan/Stripe-Demo)
+* Server endpoint : https://app.beanpole34.hasura-app.io/charge 
 
 #### Payment Flow
 
