@@ -35,17 +35,16 @@ Download [Expo for Android on the Play Store](https://play.google.com/store/apps
 
 #### scan the qrcode to run the app live on your device
 ![QR-Code](https://github.com/MurariTiwari/hpdf-groupTask/blob/master/StripeDemo/src/qr.png)
-#### You can also request a link from [here](https://expo.io/@kmajeshkrishnan/StripeDemoExpo)
 
 #  [OR] 
 
 Clone repository:
 ```sh
-https://github.com/MurariTiwari/hpdf-groupTask.git
+https://github.com/shubhamsony/hpdf_final.git
 ```
 Navigate to react-native directory:
 ```sh
-cd hpdf-groupTask/StripeDemo/
+cd hpdf_final/react-native
 ```
 After run:
 ```sh
